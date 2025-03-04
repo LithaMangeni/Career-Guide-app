@@ -1,0 +1,32 @@
+/* Call-To-Action Section */
+.cta {
+    background-color: #001730;
+    color: white;
+    padding: 50px 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.cta-btn {
+    background-color: #fe4a49;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.cta-btn:hover {
+    background-color: #d93b3a;
+}
+
+.cta h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color : #4ad7d1;
+}
+
+.cta p{
+    color: white;
+}
