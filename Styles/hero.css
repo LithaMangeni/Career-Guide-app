@@ -45,6 +45,20 @@
     font-weight: bold;
 }
 
+.btn {
+    background-color: #fe4a49;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 20px;
+}
+
+.btn:hover {
+    background-color: #d93b3a;
+}
+
 .hero .btn {
     background-color: #4ad7d1;
     color: white;

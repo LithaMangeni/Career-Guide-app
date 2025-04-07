@@ -91,7 +91,7 @@
     gap: 10px; /* Adjust spacing between buttons */
 }
 
-.btn {
+.create-an-account-button {
     background-color: #fe4a49;
     color: white;
     border: none;
@@ -101,6 +101,20 @@
     border-radius: 20px;
 }
 
-.btn:hover {
+.create-an-account-button:hover {
+    background-color: #d93b3a;
+}
+
+.sign-in-button {
+    background-color: #fe4a49;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 20px;
+}
+
+.sign-in-button:hover {
     background-color: #d93b3a;
 }
